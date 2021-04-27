@@ -1,7 +1,9 @@
 ## <div align=center>Hi there 👋</div>
 
 <div align=center>I'm Yejin Kim, a full stack .NET developer from South Korea.</div>
-  
+
+<br />
+
 ## Tech Stack
 ![](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp)
 ![](https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.NET)
