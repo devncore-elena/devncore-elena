@@ -8,7 +8,7 @@
   <table>
     <thead>
       <tr>
-        <th><b>StackOverflow</b></th>
+        <th>StackOverflow</th>
         <th>GitHub</th>
       </tr>
     </thead>
