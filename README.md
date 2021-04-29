@@ -4,7 +4,26 @@
 
 <br />
 
-## _Stats_
+<div align=center> 
+  <table>
+    <thead>
+      <tr>
+        <th>StackOverflow</th>
+        <th>GitHub</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://github-readme-stackoverflow.vercel.app/?userID=15165816&layout=compact"/>
+        </td>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=devncore-elena&show_icons=true&theme=buefy&count_private=true&hide_border=true&hide_title=true&disable_animations=true&line_height=25"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 |**StackOverflow**|**GitHub**|
 |:---:|:---:|
