@@ -4,6 +4,12 @@
 
 <br />
 
+## _Stats_
+
+|**StackOverflow**|**GitHub**|
+|:---:|:---:|
+|![s](https://github-readme-stackoverflow.vercel.app/?userID=15165816&layout=compact)|![g](https://github-readme-stats.vercel.app/api?username=devncore-elena&show_icons=true&theme=buefy&count_private=true&hide_border=true&hide_title=true&disable_animations=true&line_height=25)|
+
 ## _Tech_
 ![](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp)
 ![](https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.NET)
@@ -28,9 +34,3 @@
 ![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
 ![](https://img.shields.io/badge/-Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white)
-
-## _Stats_
-
-|**StackOverflow**|**GitHub**|
-|:---:|:---:|
-|![s](https://github-readme-stackoverflow.vercel.app/?userID=15165816&layout=compact)|![g](https://github-readme-stats.vercel.app/api?username=devncore-elena&show_icons=true&theme=buefy&count_private=true&hide_border=true&hide_title=true&disable_animations=true&line_height=25)|
