@@ -31,4 +31,5 @@
 
 ## _Stats_
 
-![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=devncore-elena&show_icons=true&theme=dracula&count_private=true)
+[![Elena StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15165816&layout=compact)](https://stackoverflow.com/users/15165816/elena.kim)  
+![Elena GitHub stats](https://github-readme-stats.vercel.app/api?username=devncore-elena&show_icons=true&theme=dracula&count_private=true)
