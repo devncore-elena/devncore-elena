@@ -34,4 +34,3 @@
 |**StackOverflow**|**GitHub**|
 |:---:|:---:|
 |![s](https://github-readme-stackoverflow.vercel.app/?userID=15165816&layout=compact)|![g](https://github-readme-stats.vercel.app/api?username=devncore-elena&show_icons=true&theme=buefy&count_private=true&hide_border=true&hide_title=true&disable_animations=true&line_height=25)|
-
