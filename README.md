@@ -15,7 +15,9 @@
     <tbody>
       <tr>
         <td>
-          <img src="https://github-readme-stackoverflow.vercel.app/?userID=15165816&layout=compact"/>
+          <a href="https://stackoverflow.com/users/15165816/elena-kim" target="_blank">
+            <img src="https://github-readme-stackoverflow.vercel.app/?userID=15165816&layout=compact"/>
+          </a>
         </td>
         <td>
           <img src="https://github-readme-stats.vercel.app/api?username=devncore-elena&show_icons=true&theme=buefy&count_private=true&hide_border=true&hide_title=true&disable_animations=true&line_height=25"/>
