@@ -52,3 +52,27 @@
 ![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
 ![](https://img.shields.io/badge/-Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white)
+
+## _Repositories_
+
+<details>
+  <summary><b>:file_folder: WPF App</b></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**League of Legends**](https://github.com/devncore/leagueoflegends)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**DevFlow**](https://github.com/devncore/devflow)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**iCommander**](https://github.com/devncore/icommander)
+  
+</details>
+
+<details>
+  <summary><b>:file_folder: Article</b></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**the-easiest-markdown**](https://github.com/devncore/the-easiest-markdown)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**the-easiest-yaml**](https://github.com/devncore/the-easiest-yaml)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**wpf-xaml-binding**](https://github.com/devncore/wpf-xaml-binding)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**ivalueconverter**](https://github.com/devncore/ivalueconverter)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**dependencyproperty**](https://github.com/devncore/dependencyproperty)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**wpf-coce-rules**](https://github.com/devncore/wpf-code-rules)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**emoji-cheat-sheet**](https://github.com/devncore/emoji-cheat-sheet) 
+  
+</details>
