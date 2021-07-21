@@ -41,6 +41,7 @@
 ![](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual-Studio)
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual-Studio-Code)
 ![](https://img.shields.io/badge/-Jupyter-f37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 
 ## _Database_
 ![](https://img.shields.io/badge/-MSSQL-%23CC2927?style=for-the-badge&logo=Microsoft-SQL-Server)
