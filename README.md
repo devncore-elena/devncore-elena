@@ -1,6 +1,6 @@
-## <div align=center>Hi there 👋</div>
+## <div align=center>Hi there <img src="https://raw.githubusercontent.com/hanminsik/hanminsik/main/Hi.gif" width="30px"></div>
 
-<div align=center>I'm Yejin Kim, a full stack .NET developer from South Korea.</div>
+<div align=center>I'm Elena Kim, a full stack .NET developer from South Korea.</div>
 
 <br />
 
@@ -31,10 +31,10 @@
 ![](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp)
 ![](https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.NET)
 ![](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=Blazor&logoColor=white)
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 ![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
 
 ## _IDE_
