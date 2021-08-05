@@ -1,4 +1,4 @@
-## <div align=center>Hi there <img src="https://raw.githubusercontent.com/hanminsik/hanminsik/main/Hi.gif" width="30px"></div>
+## <div align=center>Hi there <img src="https://user-images.githubusercontent.com/74305823/128292495-86e9cc4e-3fee-49df-963c-0a31748ba61b.gif" width="30px"></div>
 
 <div align=center>I'm Elena Kim, a full stack .NET developer from South Korea.</div>
 
