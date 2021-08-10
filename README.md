@@ -49,10 +49,13 @@
 ![](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 ## _Community_
-![](https://img.shields.io/badge/-StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
+![](https://img.shields.io/badge/-StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
+
+## _Like_
 ![](https://img.shields.io/badge/-Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white)
+![](https://img.shields.io/badge/-Netflix-E50914?style=for-the-badge&logo=Netflix&logoColor=white)
 
 ## _Repositories_
 
