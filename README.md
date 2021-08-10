@@ -56,25 +56,29 @@
 
 ## _Repositories_
 
-<details>
+<details open>
   <summary><b>:file_folder: WPF App</b></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**League of Legends**](https://github.com/devncore/leagueoflegends)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**DevFlow**](https://github.com/devncore/devflow)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**iCommander**](https://github.com/devncore/icommander)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**League of Legends**](https://github.com/devncore/leagueoflegends)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**DevFlow**](https://github.com/devncore/devflow)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**iCommander**](https://github.com/devncore/icommander)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**TicTacToe**](https://github.com/devncore/tictactoe-wpf)
   
 </details>
 
-<details>
+<details open>
   <summary><b>:file_folder: Article</b></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**the-easiest-markdown**](https://github.com/devncore/the-easiest-markdown)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**the-easiest-yaml**](https://github.com/devncore/the-easiest-yaml)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**wpf-xaml-binding**](https://github.com/devncore/wpf-xaml-binding)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**ivalueconverter**](https://github.com/devncore/ivalueconverter)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**dependencyproperty**](https://github.com/devncore/dependencyproperty)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**wpf-coce-rules**](https://github.com/devncore/wpf-code-rules)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :file_folder: [**emoji-cheat-sheet**](https://github.com/devncore/emoji-cheat-sheet) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**the-easiest-yaml**](https://github.com/devncore/the-easiest-yaml)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**the-easiest-react**](https://github.com/devncore/the-easiest-react)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**the-easiest-markdown**](https://github.com/devncore/the-easiest-markdown)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**blazor-authentication**](https://github.com/devncore/blazor-authentication)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**awesome-wpf**](https://github.com/devncore/awesome-wpf)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**wpf-coce-rules**](https://github.com/devncore/wpf-code-rules)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**wpf-xaml-binding**](https://github.com/devncore/wpf-xaml-binding)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**ivalueconverter**](https://github.com/devncore/ivalueconverter)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**dependencyproperty**](https://github.com/devncore/dependencyproperty)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**emoji-cheat-sheet**](https://github.com/devncore/emoji-cheat-sheet) 
   
 </details>
  
