@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=YEJIN%20KIM%20&desc=.NET%20DEVELOPER🙂&animation=fadeIn&fontSize=50&fontAlign=70&fontAlignY=40&descAlign=85&color=d0b0ff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=YEJIN%20KIM%20&desc=.NET%20DEVELOPER🙂&animation=fadeIn&fontSize=50&fontAlign=70&fontAlignY=40&descAlign=85&color=d0b0ff)
 
 <p align="center">🇰🇷</p>
 
