@@ -2,7 +2,7 @@
 
 <p align="center">🇰🇷</p>
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
   <br/>
@@ -40,7 +40,7 @@
 
 <br/>
   
-<h3 align="center">🔥 Connect with me</h3>
+<h3 align="center">🔥Connect with me🔥</h3>
 
 <p align="center">
   <a href="https://github.com/devncore-elena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="15165816" height="30" width="40" /></a>
