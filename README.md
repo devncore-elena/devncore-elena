@@ -1,87 +1,58 @@
-## <div align=center>Hi there <img src="https://user-images.githubusercontent.com/74305823/128292495-86e9cc4e-3fee-49df-963c-0a31748ba61b.gif" width="30px"></div>
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=YEJIN%20KIM%20&desc=.NET%20DEVELOPER🙂&animation=fadeIn&fontSize=50&fontAlign=70&fontAlignY=40&descAlign=85&color=d0b0ff)
 
-<div align=center>I'm Elena Kim, a full stack .NET developer from South Korea.</div>
+<p align="center">🇰🇷</p>
 
-<br />
+<h3 align="center">🛠 Tech Stack</h3>
 
-<div align=center> 
-  <table>
-    <thead>
-      <tr>
-        <th>StackOverflow</th>
-        <th>GitHub</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://stackoverflow.com/users/15165816/elena-kim" target="_blank">
-            <img src="https://github-readme-stackoverflow.vercel.app/?userID=15165816&layout=compact"/>
-          </a>
-        </td>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=devncore-elena&show_icons=true&theme=buefy&count_private=true&hide_border=true&hide_title=true&line_height=25"/>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-## _Tech_
-![](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp)
-![](https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.NET)
-![](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=Blazor&logoColor=white)
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
-![](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
-
-## _IDE_
-![](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual-Studio)
-![](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual-Studio-Code)
-![](https://img.shields.io/badge/-Jupyter-f37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![](https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
-
-## _Database_
-![](https://img.shields.io/badge/-MSSQL-%23CC2927?style=for-the-badge&logo=Microsoft-SQL-Server)
-![](https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=MongoDB&logoColor=white)
-![](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-
-## _Community_
-![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
-![](https://img.shields.io/badge/-StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
-
-## _Like_
-![](https://img.shields.io/badge/-Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white)
-![](https://img.shields.io/badge/-Netflix-E50914?style=for-the-badge&logo=Netflix&logoColor=white)
-
-## _Repositories_
-
-<details open>
-  <summary><b>:file_folder: WPF App</b></summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**League of Legends**](https://github.com/devncore/leagueoflegends)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**DevFlow**](https://github.com/devncore/devflow)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**iCommander**](https://github.com/devncore/icommander)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**TicTacToe**](https://github.com/devncore/tictactoe-wpf)
+<p align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=C-Sharp">  
+  <img src="https://img.shields.io/badge/-.NET-%235C2D91?style=flat-square&logo=.NET">
+  <img src="https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"> 
   
-</details>
-
-<details open>
-  <summary><b>:file_folder: Article</b></summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**the-easiest-yaml**](https://github.com/devncore/the-easiest-yaml)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**the-easiest-react**](https://github.com/devncore/the-easiest-react)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**the-easiest-markdown**](https://github.com/devncore/the-easiest-markdown)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**blazor-authentication**](https://github.com/devncore/blazor-authentication)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**awesome-wpf**](https://github.com/devncore/awesome-wpf)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**wpf-coce-rules**](https://github.com/devncore/wpf-code-rules)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**wpf-xaml-binding**](https://github.com/devncore/wpf-xaml-binding)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**ivalueconverter**](https://github.com/devncore/ivalueconverter)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**dependencyproperty**](https://github.com/devncore/dependencyproperty)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [**emoji-cheat-sheet**](https://github.com/devncore/emoji-cheat-sheet) 
+  <br/>
   
-</details>
- 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"> 
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"> 
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"> 
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MSSQL-%23CC2927?style=flat-square&logo=Microsoft-SQL-Server">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft%20Azure&logoColor=white">
+  
+</p>
+
+<br/>
+  
+<h3 align="center">🔥 Connect with me</h3>
+
+<p align="center">
+  <a href="https://github.com/devncore-elena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="15165816" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/15165816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15165816" height="30" width="40" /></a>
+</p>
+
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devncore-elena&show_icons=true&theme=buefy&count_private=true&hide_border=false&hide_title=false&line_height=25"/>
+</p>
+
+<br/>
+  
