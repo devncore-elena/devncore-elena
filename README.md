@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=C-Sharp">  
   <img src="https://img.shields.io/badge/-.NET-%235C2D91?style=flat-square&logo=.NET">
   <img src="https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">  
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"> 
@@ -29,9 +27,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"> 
   <img src="https://img.shields.io/badge/MSSQL-%23CC2927?style=flat-square&logo=Microsoft-SQL-Server">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-  
-  <br/>
-  
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft%20Azure&logoColor=white">
   
@@ -39,7 +34,7 @@
 
 <br/>
   
-<h3 align="center">🔥Connect with me🔥</h3>
+<h3 align="center">🔥 Connect with me 🔥</h3>
 
 <p align="center">
   <a href="https://github.com/devncore-elena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="15165816" height="30" width="40" /></a>
