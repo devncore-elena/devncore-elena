@@ -45,5 +45,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devncore-elena&show_icons=true&theme=buefy&count_private=true&hide_border=false&hide_title=false&line_height=25"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devncore-elena&layout=compact"/>
 </p>
