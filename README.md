@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=YEJIN%20KIM%20&desc=.NET%20DEVELOPER🙂&animation=fadeIn&fontSize=50&fontAlign=75&fontAlignY=38&descAlign=85&color=d0b0ff)
 
-<p align="center">🇰🇷</p>
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
@@ -46,4 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devncore-elena&show_icons=true&theme=buefy&count_private=true&hide_border=false&hide_title=false&line_height=25"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devncore-elena&layout=compact"/>
 </p>
