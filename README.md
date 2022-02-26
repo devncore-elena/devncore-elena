@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft%20Azure&logoColor=white">
-  
 </p>
 
 <br/>
