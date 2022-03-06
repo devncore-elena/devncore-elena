@@ -3,7 +3,6 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
-  <br/>
   <img src="https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=C-Sharp">  
   <img src="https://img.shields.io/badge/-.NET-%235C2D91?style=flat-square&logo=.NET">
   <img src="https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=white">
