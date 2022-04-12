@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=C-Sharp">  
   <img src="https://img.shields.io/badge/-.NET-%235C2D91?style=flat-square&logo=.NET">
   <img src="https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=white">
+  <img src="https://img.shields.io/badge/-Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">  
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"> 
@@ -33,7 +34,7 @@
 <h3 align="center">🔥 Connect with me 🔥</h3>
 
 <p align="center">
-  <a href="https://github.com/devncore-elena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="15165816" height="30" width="40" /></a>
+  <a href="https://github.com/elena-kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="15165816" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/15165816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15165816" height="30" width="40" /></a>
 </p>
 
@@ -41,5 +42,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devncore-elena&show_icons=true&theme=buefy&count_private=true&hide_border=false&hide_title=false&line_height=25"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=elena-kim&show_icons=true&theme=buefy&count_private=true&hide_border=false&hide_title=false&line_height=25"/> 
 </p>
