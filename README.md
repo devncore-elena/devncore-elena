@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=YEJIN%20KIM%20&desc=.NET%20DEVELOPER🙂&animation=fadeIn&fontSize=50&fontAlign=75&fontAlignY=38&descAlign=85&color=d0b0ff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=YEJIN&desc=.NET%20DEVELOPER🙂&animation=fadeIn&fontSize=50&fontAlign=85&fontAlignY=38&descAlign=85&color=d0b0ff)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -28,17 +28,3 @@
 </p>
 
 <br/>
-  
-<h3 align="center">🔥 Connect with me 🔥</h3>
-
-<p align="center">
-  <a href="https://github.com/elena-kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="15165816" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/15165816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15165816" height="30" width="40" /></a>
-</p>
-
-<br/>
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elena-kim&show_icons=true&theme=buefy&count_private=true&hide_border=false&hide_title=false&line_height=25"/> 
-</p>
